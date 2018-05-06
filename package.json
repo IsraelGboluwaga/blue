@@ -8,12 +8,13 @@
   "dependencies": {
     "express": "^4.16.3",
     "jade": "^1.11.0",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "nodemon": "^1.17.4"
   },
   "description": "Birthday celebration",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "author": "Israel Arunah, OS Templates",
   "license": "MIT"
