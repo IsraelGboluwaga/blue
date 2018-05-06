@@ -13,7 +13,7 @@
   "description": "Birthday celebration",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Israel Arunah, OS Templates",
   "license": "MIT"
