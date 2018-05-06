@@ -9,6 +9,7 @@
   "description": "Birthday celebration",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Israel Arunah, OS Templates",

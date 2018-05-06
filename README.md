@@ -1,2 +1,2 @@
 # blue
-A web page for my girl for her birthday.
+A web page to celebrate my girl on her birthday.
