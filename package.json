@@ -6,6 +6,7 @@
     "npm": "3.10.10"
   },
   "dependencies": {
+    "debug": "^3.1.0",
     "express": "^4.16.3",
     "jade": "^1.11.0",
     "path": "^0.12.7",
@@ -14,7 +15,7 @@
   "description": "Birthday celebration",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon ./bin/www"
   },
   "author": "Israel Arunah, OS Templates",
   "license": "MIT"

@@ -11,4 +11,6 @@ app.get('/', function (req, res) {
     res.sendFile('index.html');
 });
 
-app.listen(9900);
+// app.listen(9900);
+
+module.exports = app;
